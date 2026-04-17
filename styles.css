@@ -1,5 +1,5 @@
 .body{ 
-    background-color: white;
+    background-color: rgb(0, 0, 0);
     transition: background-color 1s ease;
     color: white;
     font-size: 20px;
