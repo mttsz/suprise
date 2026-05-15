@@ -13,6 +13,9 @@ color:red;
 background-color:black;
 }
 
+#btn:hover {
+    color: violet;
+}
 #video {
     width: 100%;  height: 360px;
 }
